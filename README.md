@@ -52,9 +52,8 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
 
 ## STM 32 CUBE PROGRAM :
 
-Rasika.M
-212222230117
-Artificial intelligence and data science
+RAGUL RAAJAN T
+212223100043
 
 #include "main.h"
 #include"stdbool.h"
